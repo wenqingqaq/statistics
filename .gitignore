@@ -2,3 +2,5 @@ logs
 .buildpath
 .project
 .settings
+workerman.log
+.idea/
